@@ -80,6 +80,8 @@ div.wpv_header_right {
 div.wpv_header_right > input[type='text'] {
 	border-style: none;
 	outline: 0;
+	width: 180px;
+	height: 21px;
 	text-align: center;
 }
 
