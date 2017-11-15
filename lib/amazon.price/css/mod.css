@@ -71,10 +71,10 @@ div.wpv_header_right {
 	border: 1px solid #afafaf;
 	width: 200px;
 	height: 28px;
-	margin: 3px 0 0 20px;
+	margin: 6px 0 0 20px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 27px;
+	line-height: 25px;
 }
 
 div.wpv_header_right > input[type='text'] {
