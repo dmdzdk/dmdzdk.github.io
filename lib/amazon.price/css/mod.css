@@ -6,6 +6,10 @@ body {
 	margin: 0;
 }
 
+div {
+	box-sizeing: content-box;
+}
+
 div.wpv_header {
 	background-color: #eeeeee;
 	border-bottom: 1px solid #afafaf;
