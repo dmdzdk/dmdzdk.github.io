@@ -79,7 +79,7 @@ div.wpv_header_right {
 
 div.wpv_header_right > input[type='text'] {
 	border-style: none;
-	border-box: content-box;
+	box-sizing: content-box;
 	outline: 0;
 	width: 180px;
 	height: 21px;
