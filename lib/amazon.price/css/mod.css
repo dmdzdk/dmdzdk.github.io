@@ -58,7 +58,7 @@ div.wpv_header_left.stop:hover {
 div.wpv_header_center {
 	background-color: #ffffff;
 	border: 1px solid #afafaf;
-	width: 200px;
+	width: 100px;
 	height: 28px;
 	margin: 6px 0 0 20px;
 	font-size: 16px;
@@ -69,7 +69,7 @@ div.wpv_header_center {
 div.wpv_header_right {
 	background-color: #ffffff;
 	border: 1px solid #afafaf;
-	width: 200px;
+	width: 100px;
 	height: 28px;
 	margin: 6px 0 0 20px;
 	font-size: 16px;
@@ -82,9 +82,10 @@ div.wpv_header_right > input[type='text'] {
 	box-sizing: content-box;
 	outline: 0;
 	padding: 1px 0;
-	width: 180px;
+	width: 100px;
 	height: 21px;
 	text-align: center;
+	-webkit-appearance: none;
 }
 
 iframe {
