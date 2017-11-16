@@ -77,11 +77,16 @@ div.wpv_header_right {
 	line-height: 21px;
 }
 
+div.wpv_header_right.sp {
+	height: 25px;
+	padding: 3px 0 0 0;
+}
+
 div.wpv_header_right > input[type='text'] {
 	border-style: none;
 	border-radius: 0;
 	box-sizing: content-box;
-	outline: 0;
+	outline: none;
 	padding: 1px 0;
 	width: 90px;
 	height: 21px;
